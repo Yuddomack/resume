@@ -20,6 +20,6 @@
 <br>
    
 # 사용가능한 기술과 툴
-* [마크업] HTML, CSS(Sass), WebStorm, GitHub
+* [개발] HTML, CSS(Sass), Javascript(jQeury), WebStorm, GitHub
 * [디자인] Photoshop, Sketch, Zeplin
 * [협업] Slack, Trello, JIRA, Confluence
