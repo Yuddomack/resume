@@ -23,3 +23,4 @@
 * [개발] HTML, CSS(Sass), Javascript(jQuery), WebStorm, GitHub
 * [디자인] Photoshop, Sketch, Zeplin
 * [협업] Slack, Trello, JIRA, Confluence
+* [기타] Jekyll, Wordpress
