@@ -1,11 +1,10 @@
 # 자기소개
-안녕하세요. 저는 6년차 UI 개발자 오혜진입니다. 마크업 개발은 웹의 근간을 다루는 매우 중요한 과정입니다. 효율적인 html/css 구축을 늘 고민합니다. 최근에는 Angular 컴포넌트 단위별 sass 개발을 하면서 FE 개발자와 좀 더 효율적으로 일하는 방법에 대해 고민하고 있습니다. 프로덕트가 올바른 방향으로 나아갈 수 있도록 개발자, 디자이너와 가깝게 소통합니다. [CSS 드로잉](https://codepen.io/collection/AVKvZM/)을 좋아하고, 일하면서 얻은 노하우들을 [블로그](http://zinee-world.tistory.com)를 통해 공유합니다.
+안녕하세요. 저는 6년차 마크업 개발자 오혜진입니다. 마크업 개발은 웹의 근간을 다루는 매우 중요한 과정입니다. 효율적인 html/css 구축을 늘 고민합니다. 최근에는 Angular 컴포넌트 단위별 sass 개발을 하면서 FE 개발자와 좀 더 효율적으로 일하는 방법에 대해 고민하고 있습니다. 프로덕트가 올바른 방향으로 나아갈 수 있도록 개발자, 디자이너와 가깝게 소통합니다. [CSS 드로잉](https://codepen.io/collection/AVKvZM/)을 좋아하고, 일하면서 얻은 노하우들을 [블로그](http://zinee-world.tistory.com)를 통해 공유합니다.
 
 <br>
 
 # 경력사항
-* [2019.01~ing] Coinone / 유저플로우셀에서 코인원 거래/프로차트를 제외한 모든 페이지의 마크업 전담
-* [2018.02~2018.12] Coinone / 코인원 거래소 개편 및 유지보수 마크업 전담, CGEX(Coinone Global Exchange) 거래소 마크업 전담
+* [2018.02~ing] Coinone / 코인원 거래소 개편 및 유지보수 마크업 담당, CGEX 거래소 마크업 전담
 * [2015.06~2018.01] MyMusicTaste / 메인 서비스 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/after201506.md#201506ing)
 * [2014.02~2015.06] JC Planet / 포탈, 게임 사이트 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/before201506.md#201402201506)
 * [2013.10~2013.11] 디자인 커뮤니케이션 (인턴) / 부분 리뉴얼 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/before201506.md#201310201311)
