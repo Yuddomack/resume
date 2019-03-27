@@ -4,7 +4,8 @@
 <br>
 
 # 경력사항
-* [2018.02~ing] Coinone / 코인원 거래소 개편 및 유지보수 마크업 담당, CGEX 거래소 마크업 전담
+* [2018.02~ing] Coinone / 코인원 거래소 개편 및 유지보수 마크업 담당
+* [2018.05~2019.03] Coinone Global Exchange / CGEX 거래소 마크업 전담
 * [2015.06~2018.01] MyMusicTaste / 메인 서비스 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/after201506.md#201506ing)
 * [2014.02~2015.06] JC Planet / 포탈, 게임 사이트 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/before201506.md#201402201506)
 * [2013.10~2013.11] 디자인 커뮤니케이션 (인턴) / 부분 리뉴얼 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/before201506.md#201310201311)
