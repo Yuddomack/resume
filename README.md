@@ -6,12 +6,19 @@
 
 # 경력사항
 * [2019.07~ing] Coinone / 코인원 유저플로우셀 셀오너(CO)
-* [2019.03~2019.07] Prography 4기 프론트엔드 멘토
-* [2018.02~ing] Coinone / 코인원 거래소 개편 및 유지보수 마크업 담당
+* [2018.02~ing] Coinone / 코인원 개편 및 유지보수 마크업 담당
 * [2018.05~2019.03] Coinone Global Exchange / CGEX 거래소 마크업 전담
 * [2015.06~2018.01] MyMusicTaste / 메인 서비스 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/after201506.md#201506ing)
 * [2014.02~2015.06] JC Planet / 포탈, 게임 사이트 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/before201506.md#201402201506)
 * [2013.10~2013.11] 디자인 커뮤니케이션 (인턴) / 부분 리뉴얼 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/before201506.md#201310201311)
+
+<br>
+
+# 기타활동
+* [2018.04] 좋아서 일하는 사람들 [(발표)](https://brunch.co.kr/@startupalliance/11)
+* [2019.03~2019.07] Prography 4기 (프론트엔드 멘토)
+* [2019.04] Women TechMakers 2019 [(발표)](https://wtm-seoul-2019.firebaseapp.com/)
+* [2019.10] W3C Conferenct 2019 [(발표)](http://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1258)
 
 <br>
 
