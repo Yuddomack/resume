@@ -1,5 +1,5 @@
 # 2018.02~ing
-## Coinone / Markup Developer
+## Coinone / Markup Developer, Cell Owner of UserflowCell
 
 * (2019.12) 코인원 락업 서비스 개발 [[상세](https://coinone.co.kr/talk/notice/detail/838)]
 * (2019.11) 코인원 메인 개편 [[상세](https://coinone.co.kr/talk/notice/detail/811)]
