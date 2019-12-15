@@ -15,10 +15,10 @@
 <br>
 
 # 기타활동
-* [2018.04] 좋아서 일하는 사람들 [(발표)](https://brunch.co.kr/@startupalliance/11)
-* [2019.03~2019.07] Prography 4기 (프론트엔드 멘토)
-* [2019.04] Women TechMakers 2019 [(발표)](https://wtm-seoul-2019.firebaseapp.com/)
 * [2019.10] W3C Conferenct 2019 [(발표)](http://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1258)
+* [2019.04] Women TechMakers 2019 [(발표)](https://wtm-seoul-2019.firebaseapp.com/)
+* [2019.03~2019.07] Prography 4기 (프론트엔드 멘토)
+* [2018.04] 좋아서 일하는 사람들 [(발표)](https://brunch.co.kr/@startupalliance/11)
 
 <br>
 
