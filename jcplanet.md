@@ -14,7 +14,7 @@
 <br>
 
 ### 2. 자사 퍼블리싱 게임 사이트 마크업
-* [2014.02] Legend of Silkraod CBT 사이트 마크업
+* [2014.02] Legend of Silkroad CBT 사이트 마크업
 * [2014.03] Legend of Silkroad 공식 사이트 마크업
 * [2014.08] Legend of Edda 공식 사이트 마크업
 * [2015.03] Metal Reaper 공식 사이트 마크업
