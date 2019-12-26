@@ -1,5 +1,5 @@
 # 자기소개
-안녕하세요. 저는 달리기를 좋아하는 6년차 마크업 개발자 오혜진입니다. 마크업 개발은 웹의 근간을 다루는 매우 중요한 과정입니다. 효율적인 html/css 구축을 늘 고민합니다. 최근에는 Angular 컴포넌트 단위별 sass 개발을 하면서 FE 개발자와 좀 더 효율적으로 일하는 방법에 대해 고민하고 있습니다. 프로덕트가 올바른 방향으로 나아갈 수 있도록 개발자, 디자이너와 가깝게 소통합니다. [CSS 드로잉](https://codepen.io/collection/AVKvZM/)을 좋아했고, 일하면서 얻은 노하우들을 [블로그](http://zinee-world.tistory.com)를 통해 공유하곤 했습니다. 2019년 7월부터는 코인원 유저플로우셀의 셀오너(CO)를 맡아 셀을 이끌고 있습니다. 요즘은 데이터분석에 관심이 있습니다.
+안녕하세요. 저는 달리기를 좋아하는 6년차 마크업 개발자 오혜진입니다. 마크업 개발은 웹의 근간을 다루는 매우 중요한 과정입니다. 효율적인 html/css 구축을 늘 고민합니다. 최근에는 Angular 컴포넌트 단위별 sass 개발을 하면서 FE 개발자와 좀 더 효율적으로 일하는 방법에 대해 고민하고 있습니다. 프로덕트가 올바른 방향으로 나아갈 수 있도록 개발자, 디자이너와 가깝게 소통합니다. [CSS 드로잉](https://codepen.io/collection/AVKvZM/)을 좋아했고, 일하면서 얻은 노하우들을 [블로그](http://zinee-world.tistory.com)를 통해 공유하곤 했습니다. 2019년 7월부터는 코인원 유저플로우셀의 셀오너(CO)를 맡아 셀을 이끌고 있습니다. 최근에는 데이터분석에 관심이 많습니다.
 
 <br>
 
@@ -14,7 +14,7 @@
 <br>
 
 # 기타활동
-* [2019.10] W3C Conferenct 2019 [(발표)](http://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1258)
+* [2019.10] W3C Conference 2019 [(발표)](http://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1258)
 * [2019.04] Women TechMakers 2019 [(발표)](https://wtm-seoul-2019.firebaseapp.com/)
 * [2019.03~2019.07] Prography 4기 (프론트엔드 멘토)
 * [2018.04] 좋아서 일하는 사람들 [(발표)](https://brunch.co.kr/@startupalliance/11)
