@@ -31,7 +31,7 @@
 <br>
    
 # 사용가능한 기술과 툴
-* [개발] HTML, CSS(Sass), Javascript(jQuery), WebStorm, GitHub, (얉은 Angular, Django)
+* [개발] HTML, CSS(Sass), Javascript(jQuery), WebStorm, GitHub, (얕은 Angular, Django)
 * [디자인] Photoshop, Sketch, Zeplin
 * [협업] Slack, Trello, JIRA, Confluence
 * [기타] Jekyll, Wordpress
