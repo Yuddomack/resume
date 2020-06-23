@@ -4,15 +4,15 @@
 <br>
 
 # 경력사항
-* [2020.02~ing] Kakao Enterprise
+1. [2020.02~ing] Kakao Enterprise
   * AI서비스플랫폼실 커넥트파트 마크업 개발자
-* [2018.02~2020.02] Coinone
+1. [2018.02~2020.02] Coinone
   * [2019.07~2020.02] 코인원 유저플로우셀 셀오너(CO) [[상세기술서]](https://github.com/zineeworld/resume/blob/master/coinone.md#201907ing)
   * [2018.02~2020.02] Coinone / 코인원 개편 및 유지보수 마크업 담당 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/coinone.md#201802ing)
   * [2018.05~2019.03] Coinone Global Exchange / CGEX 거래소 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/coinone.md#201802ing)
-* [2015.06~2018.01] MyMusicTaste
+1. [2015.06~2018.01] MyMusicTaste
   * 메인 서비스 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/mymusictaste.md#201506ing)
-* [2014.02~2015.06] JC Planet
+1. [2014.02~2015.06] JC Planet
   * 포탈, 게임 사이트 마크업 전담 [[상세기술서]](https://github.com/zineeworld/resume/blob/master/jcplanet.md#201402201506)
 
 <br>
